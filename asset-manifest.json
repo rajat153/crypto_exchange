@@ -1,0 +1,19 @@
+{
+  "main.css": "/crypto_exchange/static/css/main.cf199fcf.chunk.css",
+  "main.js": "/crypto_exchange/static/js/main.95872a04.chunk.js",
+  "main.js.map": "/crypto_exchange/static/js/main.95872a04.chunk.js.map",
+  "static/js/1.6188222c.chunk.js": "/crypto_exchange/static/js/1.6188222c.chunk.js",
+  "static/js/1.6188222c.chunk.js.map": "/crypto_exchange/static/js/1.6188222c.chunk.js.map",
+  "runtime~main.js": "/crypto_exchange/static/js/runtime~main.5dc549ce.js",
+  "runtime~main.js.map": "/crypto_exchange/static/js/runtime~main.5dc549ce.js.map",
+  "static/media/ethbtc.png": "/crypto_exchange/static/media/ethbtc.61c51bc3.png",
+  "static/media/matic.png": "/crypto_exchange/static/media/matic.a577c2c6.png",
+  "static/media/sol.png": "/crypto_exchange/static/media/sol.103b682c.png",
+  "static/media/qtum.png": "/crypto_exchange/static/media/qtum.dccb65ee.png",
+  "static/media/amb.png": "/crypto_exchange/static/media/amb.b4d6edd6.png",
+  "static/media/aave.png": "/crypto_exchange/static/media/aave.0175fc45.png",
+  "static/css/main.cf199fcf.chunk.css.map": "/crypto_exchange/static/css/main.cf199fcf.chunk.css.map",
+  "index.html": "/crypto_exchange/index.html",
+  "precache-manifest.2e66d8261f4ed7e1f338d605b9a6b641.js": "/crypto_exchange/precache-manifest.2e66d8261f4ed7e1f338d605b9a6b641.js",
+  "service-worker.js": "/crypto_exchange/service-worker.js"
+}
