@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "b089c7a857b8071f1868",
+    "revision": "34b6d3c3a41b62ff9226",
     "url": "/crypto_exchange/static/css/main.5e7a5b22.chunk.css"
   },
   {
-    "revision": "b089c7a857b8071f1868",
-    "url": "/crypto_exchange/static/js/main.b089c7a8.chunk.js"
+    "revision": "34b6d3c3a41b62ff9226",
+    "url": "/crypto_exchange/static/js/main.34b6d3c3.chunk.js"
   },
   {
     "revision": "628547cdc09fbda320e7",
@@ -40,7 +40,7 @@ self.__precacheManifest = [
     "url": "/crypto_exchange/static/media/aave.0175fc45.png"
   },
   {
-    "revision": "f3352666840ca9d56c871cb690aca243",
+    "revision": "023c74fc1aa541e957aa0d43ee056abe",
     "url": "/crypto_exchange/index.html"
   }
 ];
