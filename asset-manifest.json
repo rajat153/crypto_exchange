@@ -1,9 +1,9 @@
 {
-  "main.css": "/crypto_exchange/static/css/main.cf199fcf.chunk.css",
-  "main.js": "/crypto_exchange/static/js/main.95872a04.chunk.js",
-  "main.js.map": "/crypto_exchange/static/js/main.95872a04.chunk.js.map",
-  "static/js/1.6188222c.chunk.js": "/crypto_exchange/static/js/1.6188222c.chunk.js",
-  "static/js/1.6188222c.chunk.js.map": "/crypto_exchange/static/js/1.6188222c.chunk.js.map",
+  "main.css": "/crypto_exchange/static/css/main.5e7a5b22.chunk.css",
+  "main.js": "/crypto_exchange/static/js/main.b089c7a8.chunk.js",
+  "main.js.map": "/crypto_exchange/static/js/main.b089c7a8.chunk.js.map",
+  "static/js/1.628547cd.chunk.js": "/crypto_exchange/static/js/1.628547cd.chunk.js",
+  "static/js/1.628547cd.chunk.js.map": "/crypto_exchange/static/js/1.628547cd.chunk.js.map",
   "runtime~main.js": "/crypto_exchange/static/js/runtime~main.5dc549ce.js",
   "runtime~main.js.map": "/crypto_exchange/static/js/runtime~main.5dc549ce.js.map",
   "static/media/ethbtc.png": "/crypto_exchange/static/media/ethbtc.61c51bc3.png",
@@ -12,8 +12,8 @@
   "static/media/qtum.png": "/crypto_exchange/static/media/qtum.dccb65ee.png",
   "static/media/amb.png": "/crypto_exchange/static/media/amb.b4d6edd6.png",
   "static/media/aave.png": "/crypto_exchange/static/media/aave.0175fc45.png",
-  "static/css/main.cf199fcf.chunk.css.map": "/crypto_exchange/static/css/main.cf199fcf.chunk.css.map",
+  "static/css/main.5e7a5b22.chunk.css.map": "/crypto_exchange/static/css/main.5e7a5b22.chunk.css.map",
   "index.html": "/crypto_exchange/index.html",
-  "precache-manifest.2e66d8261f4ed7e1f338d605b9a6b641.js": "/crypto_exchange/precache-manifest.2e66d8261f4ed7e1f338d605b9a6b641.js",
+  "precache-manifest.e368fb3010bf00f091f5c878e0de4e9d.js": "/crypto_exchange/precache-manifest.e368fb3010bf00f091f5c878e0de4e9d.js",
   "service-worker.js": "/crypto_exchange/service-worker.js"
 }
